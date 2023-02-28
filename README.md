@@ -31,7 +31,7 @@ Display First and Last name
 Create a button - Profile Button - this button will toggle the Questions and answers you gave to the 3 questions 
 
 Using NgRX(State management) Use the Mock Database provided to display all 10 users and info  
-Use flex or grid to display Users
+Use flex or grid to display Users  
 Then use api call https://api.1inch.io/v5.0/1/tokens (There is NO API Key needed) to receive List of tokens available for swap.  
 Display this list of tokens and their logo .  
 Use flex or grid to display 4 tokens(on fullscreen) in each row of cards - Token Logo on top and Token Symbol below Logo.  
