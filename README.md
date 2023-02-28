@@ -22,7 +22,7 @@ Node Version - v16.13.2
 
 ## 2 - Build a 2 page application
 ## 3 - First Page 
-Create a form that has 5 inputs First Name, Last Name, How long have you been a devloper?, What languages are you profient in?, Are there any languages you would like to learn?  
+Create a form that has 5 inputs First Name, Last Name, How long have you been a devloper?, What programming languages are you proficient in?, Are there any programming languages you would like to learn?  
 Submit button - disabled unless the form is filled out in its .
 
 ## 4 - Second Page
