@@ -23,7 +23,8 @@ Node Version - v16.13.2
 ## 2 - Build a 2 page application
 ## 3 - First Page 
 Create a form that has 5 inputs First Name, Last Name, How long have you been a devloper?, What programming languages are you proficient in?, Are there any programming languages you would like to learn?  
-Submit button - disabled unless the form is filled out in its .
+Submit button - disabled unless the form is filled out in its.  
+Make it Responsive
 
 ## 4 - Second Page
 Display First and Last name  
@@ -31,8 +32,8 @@ Create a button - Profile Button - this button will toggle the Questions and ans
 
 Using NgRX(State management) use api call https://api.1inch.io/v5.0/1/tokens (There is API Key needed) to receive List of tokens available for swap.  
 Display this list of tokens and their logo.  
-Use flex or grid to display 4 tokens in each row of cards below Displayed name and profile button - Token Logo on top and Token Symbol below Logo.
-
+Use flex or grid to display 4 tokens(on fullscreen) in each row of cards below Displayed name and profile button - Token Logo on top and Token Symbol below Logo.  
+Make it Responsive
 ## 5 - There is no design given but make it look good
 
 ## 6 - When done send us your Repository
