@@ -16,16 +16,16 @@ You can also test the application from a different device (e.g. your smartphone)
 
 The mocked backend can be used as a datasource for the application. It is started with `npm run backend-mock` and served on port 9080. The proxy.config.js of the Angular development server is already set up to use this backend.
 
-## Test Requirements
-# 1 - Clone this repo as a Boiler Plate
+# Test Requirements
+## 1 - Clone this repo as a Boiler Plate
 Node Version - v16.13.2 
 
-# 2 - Build a 2 page application
-# 3 - First Page 
+## 2 - Build a 2 page application
+## 3 - First Page 
 Create a form that has 5 inputs First Name, Last Name, How long have you been a devloper?, What languages are you profient in?, Are there any languages you would like to learn?
 Submit button - disabled unless the form is filled out in its .
 
-# 4 - Second Page
+## 4 - Second Page
 Display First and Last name 
 Create a button - Profile Button - this button will toggle the Questions and answers you gave to the 3 questions 
 
@@ -33,9 +33,9 @@ Using NgRX(State management) use api call https://api.1inch.io/v5.0/1/tokens to 
 Display this list of tokens and their logo.
 Use flex or grid to display 4 tokens in each row of cards below Displayed name and profile button - Token Logo on top and Token Symbol below Logo.
 
-# 5 - There is no design given but make it look good
+## 5 - There is no design given but make it look good
 
-# 6 - When done send us your Repository
+## 6 - When done send us your Repository
 DO not make it private, we need to be able to clone it and run it locally
 
 ## Build
