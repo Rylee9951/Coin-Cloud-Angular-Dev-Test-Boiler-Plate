@@ -17,7 +17,7 @@ You can also test the application from a different device (e.g. your smartphone)
 The mocked backend can be used as a datasource for the application. It is started with `npm run backend-mock` and served on port 9080. The proxy.config.js of the Angular development server is already set up to use this backend.
 
 # Test Requirements
-## 1 - Clone this repo as a Boiler Plate
+## 1 - Fork this repo as a Boiler Plate
 Node Version - v16.13.2 
 
 ## 2 - Build a 2 page application
@@ -41,7 +41,7 @@ Make it Responsive
 ## 6 - When done send us your Repository
 DO not make it private, we need to be able to clone it and run it locally
 
-## Build
+<!-- ## Build
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
 
@@ -51,7 +51,7 @@ Run `jest` to execute the unit tests via [jest](https://jestjs.io/).
 
 ## Running end-to-end tests
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/). -->
 
 ## Further help
 
